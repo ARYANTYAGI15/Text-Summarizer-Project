@@ -1,13 +1,16 @@
-End to end Text-Summarizer-Project
-Workflows
-Update config.yaml
-Update params.yaml
-Update entity
-Update the configuration manager in src config
-update the conponents
-update the pipeline
-update the main.py
-update the app.py
+# End to end Text-Summarizer-Project
+
+## Workflows
+1. update config.yaml
+2. update params.yaml
+3. update entity
+4. update the configuration manager in src 
+config
+5. update the components
+6. update the pipeline
+7. update the main.py
+8. update the app.py
+
 How to run?
 STEPS:
 Clone the repository
